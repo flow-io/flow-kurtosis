@@ -10,7 +10,7 @@ for ( var i = 0; i < data.length; i++ ) {
 // Create a readable stream:
 var readStream = eventStream.readArray( data );
 
-// Create a new stream:
+// Create a new excess sample kurtosis stream:
 var stream = flowFactory().stream();
 
 // Pipe the data:
