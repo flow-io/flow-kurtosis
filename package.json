@@ -1,6 +1,6 @@
 {
   "name": "flow-kurtosis",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reduce stream factory to calculate the sample excess kurtosis of streamed data values.",
   "author": {
     "name": "Athan Reines",
